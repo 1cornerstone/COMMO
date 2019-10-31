@@ -1,0 +1,13 @@
+
+.display{ 
+background-color:#FFFFFF;
+color: black;
+margin: 0 auto;
+text-align: center;
+height: 400px;
+width: 700px;
+margin-top: 15%;
+overflow-y: scroll;
+}
+
+
